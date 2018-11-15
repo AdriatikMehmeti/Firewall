@@ -20,12 +20,12 @@ LOCAL_BCAST="192.168.x.255"    # Broadcast
 
 Its easy to setup 
 
-Step 1) git clone https://github.com/AdriatikMehmeti/Firewall.git
+-- Step 1) git clone https://github.com/AdriatikMehmeti/Firewall.git
 
-Step 2) unzip Firewall-master.zip
-Step 3) cd Firewall-master
-Step 4) cp Firewall /usr/bin/Firewall
-Step 5) chmod +x /usr/bin/Firewall
+-- Step 2) unzip Firewall-master.zip
+-- Step 3) cd Firewall-master
+-- Step 4) cp Firewall /usr/bin/Firewall
+-- Step 5) chmod +x /usr/bin/Firewall
 
 Done. 
 just replace parameter needed 

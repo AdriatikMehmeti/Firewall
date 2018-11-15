@@ -12,7 +12,6 @@ _______________________________________________________________
 INET_IFACE="your interface name"             # int name       |
 INET_ADDRESS="192.168.x.149"   # ip add
 
-# Informacioni mbi interface dhe adresimin 
 LOCAL_IFACE="wlp2s0"
 LOCAL_IP="192.168.x.1"         # Gateway
 LOCAL_NET="192.168.x.0/24"     # Network
